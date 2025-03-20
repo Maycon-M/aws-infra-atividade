@@ -5,7 +5,7 @@ Criei Security Groups:
   a. Security Group para EC2_IFF:
   - Libertei o acesso SSH (porta 22) apenas para o meu IP pessoal.
   - Libertei o acesso HTTP (porta 80) – ou uma porta customizada – para qualquer IP (0.0.0.0/0).
-  - 
+    
 ![image](https://github.com/user-attachments/assets/12716e21-ae8d-4a0e-9393-3ce7495f31df)
 
   b. Security Group para RDS_IFF:
